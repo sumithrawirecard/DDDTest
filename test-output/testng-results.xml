@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25981" started-at="2016-10-03T07:47:29Z" finished-at="2016-10-03T07:47:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25981" started-at="2016-10-03T07:47:29Z" finished-at="2016-10-03T07:47:55Z">
+      <class name="com.wirecard.ntltaxi.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="setUp" is-config="true" duration-ms="7328" started-at="2016-10-03T13:17:29Z" finished-at="2016-10-03T13:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="validateHomePage" duration-ms="10282" started-at="2016-10-03T13:17:37Z" data-provider="HomePageTest" finished-at="2016-10-03T13:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vinoth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="tearDown" is-config="true" duration-ms="732" started-at="2016-10-03T13:17:48Z" finished-at="2016-10-03T13:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="validateHomePage" duration-ms="1653" started-at="2016-10-03T13:17:48Z" data-provider="HomePageTest" finished-at="2016-10-03T13:17:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="tearDown" is-config="true" duration-ms="484" started-at="2016-10-03T13:17:50Z" finished-at="2016-10-03T13:17:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="validateHomePage" duration-ms="1599" started-at="2016-10-03T13:17:50Z" data-provider="HomePageTest" finished-at="2016-10-03T13:17:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sunil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="tearDown" is-config="true" duration-ms="490" started-at="2016-10-03T13:17:52Z" finished-at="2016-10-03T13:17:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="validateHomePage" duration-ms="2192" started-at="2016-10-03T13:17:53Z" data-provider="HomePageTest" finished-at="2016-10-03T13:17:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hakkim]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789054321]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea]" name="tearDown" is-config="true" duration-ms="491" started-at="2016-10-03T13:17:55Z" finished-at="2016-10-03T13:17:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.wirecard.ntltaxi.testcases.HomePageTest@570698ea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wirecard.ntltaxi.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
